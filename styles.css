@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.round-squared-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 2px solid #3498db;
+    color: #3498db;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.round-squared-button:hover {
+    background-color: #3498db;
+    color: #fff;
+}
