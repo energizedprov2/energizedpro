@@ -8,15 +8,15 @@ body {
 
 .round-squared-button {
     display: inline-block;
-    padding: 10px 20px;
-    border-radius: 20px;
-    border: 2px solid #3498db;
-    color: #3498db;
+    padding: 15px 30px;
+    border-radius: 30px;
+    border: 2px solid #2ecc71;
+    color: #2ecc71;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .round-squared-button:hover {
-    background-color: #3498db;
+    background-color: #2ecc71;
     color: #fff;
 }
